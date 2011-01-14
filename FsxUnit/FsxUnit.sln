@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsxUnit", "FsxUnit\FsxUnit.fsproj", "{D2AA064B-B526-4565-95A5-7B350E74AFBE}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsxUnit.Test", "FsxUnit.Test\FsxUnit.Test.fsproj", "{C8395A95-D5F2-4412-8A7A-6860663CD96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AA064B-B526-4565-95A5-7B350E74AFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AA064B-B526-4565-95A5-7B350E74AFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AA064B-B526-4565-95A5-7B350E74AFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AA064B-B526-4565-95A5-7B350E74AFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8395A95-D5F2-4412-8A7A-6860663CD96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8395A95-D5F2-4412-8A7A-6860663CD96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8395A95-D5F2-4412-8A7A-6860663CD96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8395A95-D5F2-4412-8A7A-6860663CD96C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
